@@ -1,0 +1,7 @@
+C:\Users\Mangai\source\repos\LINQ__Deferred_Immediate\LINQ__Deferred_Immediate\bin\Debug\LINQ__Deferred_Immediate.exe.config
+C:\Users\Mangai\source\repos\LINQ__Deferred_Immediate\LINQ__Deferred_Immediate\bin\Debug\LINQ__Deferred_Immediate.exe
+C:\Users\Mangai\source\repos\LINQ__Deferred_Immediate\LINQ__Deferred_Immediate\bin\Debug\LINQ__Deferred_Immediate.pdb
+C:\Users\Mangai\source\repos\LINQ__Deferred_Immediate\LINQ__Deferred_Immediate\obj\Debug\LINQ__Deferred_Immediate.csprojAssemblyReference.cache
+C:\Users\Mangai\source\repos\LINQ__Deferred_Immediate\LINQ__Deferred_Immediate\obj\Debug\LINQ__Deferred_Immediate.csproj.CoreCompileInputs.cache
+C:\Users\Mangai\source\repos\LINQ__Deferred_Immediate\LINQ__Deferred_Immediate\obj\Debug\LINQ__Deferred_Immediate.exe
+C:\Users\Mangai\source\repos\LINQ__Deferred_Immediate\LINQ__Deferred_Immediate\obj\Debug\LINQ__Deferred_Immediate.pdb
