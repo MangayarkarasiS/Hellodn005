@@ -8,6 +8,7 @@ namespace LINQ__Deferred_Immediate
 {
     public class Student
     {
+        //hello stud
         public int StudentID { get; set; }
         public string Name { get; set; }
         public int TotalMarks { get; set; }
